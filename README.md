@@ -3,12 +3,10 @@
 
 <p align="left"> <img src=" https://komarev.com/ghpvc/?username=gncyyldz&label=Profile%20views&color=0e75b6&style=flat" alt="gncyyldz" /> </p>
 
-<p align="left"> <a href="https:/ /github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gncyyldz" alt="gncyyldz" /></a > </p>
+- 📝 Bloglar [https://www.gencayyildiz.com/blog/ ](https://www.gencayyildiz.com/blog/)
 
-- 📝 Bloglar [https://www.gencayyildiz.com/blog/](https://www.gencayyildiz.com/blog/)
-
-### Bloglar gönderileri
-<!-- BLOG-POST-LIST :BAŞLAT -->
+### Blog gönderileri
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Benimle bağlantı kur:</h3>

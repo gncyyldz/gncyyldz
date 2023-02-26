@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, ben Genç💫⭐</h1>
+<h1 align="center">Merhaba 👋, ben Genç🌙💫</h1>
 <h3 align="center">Kod yazmak bir sanattır...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gncyyldz&label=Profile%20views&color=0e75b6&style=flat" alt="gncyyldz" /> </p>

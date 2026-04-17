@@ -1,6 +1,6 @@
 <h1 align="center">Merhaba 👋, ben Genç🌙💫</h1>
 <h3 align="center">Kod yazmak bir sanattır...</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gncyyldz&label=Profile%20views&color=0e75b6&style=flat" alt="gncyyldz" /> </p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=gncyyldz&theme=darkhub&no-frame=true&margin-w=10" alt="gncyyldz" />

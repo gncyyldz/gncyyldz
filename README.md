@@ -37,11 +37,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=angular,aws,azure,bootstrap,cs,docker,dotnet,elasticsearch,electron,express,grafana,js,kubernetes,mongodb,mysql,nginx,nodejs,postgres,postman,rabbitmq,redis,selenium,ts&perline=12" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gncyyldz&show_icons=true&locale=en&theme=dark" alt="gncyyldz" />
-</p>
